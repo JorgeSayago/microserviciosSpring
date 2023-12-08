@@ -9,8 +9,6 @@ import jakarta.persistence.Table;
 @Table(name = "Cliente")
 public class Cliente {
 
-
-
     @Id
     private String cedula;
 
